@@ -1,0 +1,10 @@
+expo init films-mobile-app
+blank
+le decimos el nombre
+cd nombre proyecto
+yarn add axios
+yarn add react-native-elements
+yarn add @react-navigation/native
+yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+yarn add react-navigation-stack
+yarn add react react-navigation
